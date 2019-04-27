@@ -14,5 +14,5 @@ the mysql services and mongodb service as well as elastic serach were already st
 
 ## 2. Watch the demo video on youtube.  
 
-![](https://youtu.be/ntHmgZI_Mkw)
+https://youtu.be/ntHmgZI_Mkw  
 
