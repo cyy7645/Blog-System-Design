@@ -10,6 +10,7 @@ the mysql services and mongodb service as well as elastic serach were already st
 ```cd blog-role_ok```   
 - run the project  
 ```./gradlew bootRun```
+- The new page will automatically pop up, have a look at final effect
 
 
 ## 2. Watch the demo video on youtube.  
